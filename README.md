@@ -9,7 +9,7 @@
 
 - Html and CSS
 - Technologies used
-- I use nodejs and git for linting the project
+   I use nodejs and git for linting the project
 
 
 ## Authors

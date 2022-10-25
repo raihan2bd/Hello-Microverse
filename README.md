@@ -2,17 +2,13 @@
 
 # Hello Microverse
 
-> A simple hello project for microverse
-
+> A simple and basic html, css project. That print hello messege in the html.
 
 ## Built With
 
 - Html and CSS
 - Technologies used
-   I use nodejs and git for linting the project
-
-
-## Authors
+  I use nodejs and git for linting the project
 
 👤 **Author**
 
@@ -30,12 +26,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
